@@ -1,0 +1,5 @@
+print ("Exercício 2 Cadastro Simples: \n ")
+nome = input("insira seu nome: ")
+idade  = input("insira sua idade:")
+cidade = input("insira sua cidade: ")
+print ("Seu nome é {},você tem {} anos e mora em {}\n.".format (nome, idade, cidade))

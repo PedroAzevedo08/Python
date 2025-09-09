@@ -1,0 +1,8 @@
+print ("7. Calculadora de Quatro Operações: \n ")
+a = float(input("Insira o primeiro valor: "))
+b = float (input("Insira o segundo valor: "))
+soma = ( a + b)
+sub = ( a - b)
+mul = ( a*b)
+div = ( a/b)
+print ("Soma: {} \n Subtração: {} \n Multiplicação: {} \n Divisão: {}\n".format(soma, sub, mul, div))

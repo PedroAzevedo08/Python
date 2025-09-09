@@ -1,0 +1,5 @@
+print ("Exercício 3 Etiqueta de Endereço: \n ")
+nome = input("digite seu nome completo: ")
+end = input("digite seu endereço: ")
+tel = input("digite seu tel ")
+print("seu nome completo é {},\n seu endereço é {}\n e seu telefone é {}\n".format(nome, end, tel))
