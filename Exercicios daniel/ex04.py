@@ -1,5 +1,0 @@
-print ("4. União de Palavras: \n ")
-string1 = input ("digite a primeira palavra: ")
-string2 = input ("digite a segunda palavra: ")
-frase = (string1 + string2)
-print ("{}\n".format(frase))

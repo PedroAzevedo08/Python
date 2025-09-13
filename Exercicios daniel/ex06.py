@@ -1,5 +1,0 @@
-print ("6. Cálculos Simples: \n ")
-num = float(input('insira o primeiro valor: '))
-dobro = (num*2)
-terco = (num/3)
-print ("O dobro do numero é: {} \n o terço é: {}\n".format(dobro, terco))
