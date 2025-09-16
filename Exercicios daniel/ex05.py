@@ -1,5 +1,5 @@
 print ("5. Conversor de Medidas: \n ")
 metros = float(input("insira o valor a ser convertido: "))
-cent = (metros/100)
-mili = (metros/1000)
+cent = (metros*100)
+mili = (metros*1000)
 print ("Conversao para centimetros: {} \n conervsao para milimetros: {}\n".format(cent, mili))
